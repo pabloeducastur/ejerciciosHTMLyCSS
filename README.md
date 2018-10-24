@@ -1,4 +1,4 @@
-## Bienvenidos al repositorio de Pablo
+## Bienvenidos al repositorio de Marcas
 
 You can use the [editor on GitHub](https://github.com/pabloeducastur/ejerciciosHTMLyCSS/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
